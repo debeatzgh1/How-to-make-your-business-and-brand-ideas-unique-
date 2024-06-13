@@ -1,3 +1,19 @@
+#[FAQs](https://github.com/debeatzgh1/Digital-store-/issues/13)
+
+[Home page](https://github.com/debeatzgh1/Digital-store-)
+[See what's New](https://github.com/debeatzgh1/Digital-store-/discussions/18)
+
+[Request New features](https://github.com/debeatzgh1/Digital-store-/discussions/11)
+
+[Online business tools and ideas](https://github.com/Digital-creators-hub/Online-business-tools-and-ideas-for-startups-)
+
+[Our products and services](https://github.com/debeatzgh1/our-products-and-services-)
+
+[Tech business tools and ideas](https://github.com/debeatzgh1/Tech-tools-and-ideas-for-startups)
+
+[Learn more about us](https://gist.github.com/debeatzgh1/98cf571e21881f4a39560503988861d3)
+
+
 Hello there. Let me tell you about debeatzgh. This platform, known as Digital Store, is a comprehensive resource for building personal assets from scratch, with or without specific skills or experiences.
  It offers a wide range of topics to explore, including blogging, affiliate marketing, online business, digital creation, chat GPT marketing, and digital marketing.
 Anyone can use this platform, regardless of their level of technological proficiency, as it caters to individuals of all backgrounds and ages.
