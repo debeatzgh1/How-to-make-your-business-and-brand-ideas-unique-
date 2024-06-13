@@ -43,3 +43,4 @@ Digital store has everything you need all in one place.
 Build anything with ease. We believe in [your company & values] and want to make your shopping, productions and online experience enjoyable.
 Learn more 
 
+[learn more](https://beatzde4.blogspot.com)
