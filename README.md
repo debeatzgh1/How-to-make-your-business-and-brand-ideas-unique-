@@ -1,4 +1,4 @@
-Hello there. Let me help you understand Debeatzgh by writing a repository description. But with that said, let's dive into the details.
+Let me help you understand this Debeatzgh's platform by writing a repository description. But with that said, let's dive into the details.
 
 Debeatzgh is a digital store platform located in Accra, Ghana [[2]](https://poe.com/citation?message_id=206150572822&citation=2). It is a comprehensive platform that offers everything you need to build personal assets from scratch [[1]](https://poe.com/citation?message_id=206150572822&citation=1). Whether you have specific skills or not, Debeatzgh welcomes everyone who wants to acquire and build tech knowledge and make good use of technology [[2]](https://poe.com/citation?message_id=206150572822&citation=2). 
 
